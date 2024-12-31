@@ -279,7 +279,7 @@ sections:
       - url: /images/REDUCIDO MAS PEQUEÑO.png
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/ESTADAR1.png
+      - url: /images/ESTANDARIZARF.png
         altText: Wellster logo
         type: ImageBlock
       - altText: Vise logo
