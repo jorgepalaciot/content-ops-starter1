@@ -148,7 +148,7 @@ sections:
         textAlign: center
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: BENEFICIOS
       color: text-dark
       styles:
         self:
