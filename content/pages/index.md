@@ -233,10 +233,17 @@ sections:
               borderRadius: x-large
       - title: COMPROMISOS
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          *   Ofrecer soluciones efectivas y prácticas.
+
+          *   Garantizar calidad con resultados tangibles.
+
+          *   Diseñar estrategias personalizadas según cada necesidad.
+
+          *   Promover eficiencia sostenible con reducción de desperdicios.
+
+          *   Fomentar colaboración y comunicación abierta.
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
