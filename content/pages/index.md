@@ -2,7 +2,7 @@
 title: Home
 slug: /
 sections:
-  - subtitle: Award winning enterprises trust us
+  - subtitle: ''
     images:
       - url: /images/GEMBA.png
         altText: Empathy logo
