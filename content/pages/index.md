@@ -91,6 +91,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/portada iniicio optimización.png
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
