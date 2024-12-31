@@ -4,14 +4,16 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: 'Transformando Procesos, Maximizando Valor'
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Estrategias Inteligentes para alcanzar excelencia Operativa
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Alcanza tu máximo potencial a través de soluciones innovadoras y prácticas
+      en gestión de procesos. Nuestro enfoque combina principios de Lean
+      Thinking, mejora continua y análisis estratégico para optimizar cada
+      eslabón de la cadena de Valor. ¿Listo para llevar a tu empresa al
+      siguiente Nivel?
     actions:
       - label: Get started
         altText: ''
@@ -32,7 +34,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/3 pizarras a.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
@@ -49,12 +51,51 @@ sections:
         padding:
           - pt-16
           - pl-16
-          - pb-16
+          - pb-0
           - pr-16
+  - subtitle: ''
+    images:
+      - url: /images/GEMBA.png
+        altText: Empathy logo
+        type: ImageBlock
+      - url: /images/ESTANDARIZARF.png
+        altText: Wellster logo
+        type: ImageBlock
+      - altText: Vise logo
+        type: ImageBlock
+        url: /images/CADENADEVALOR.png
+      - url: /images/KAIZENR2.png
+        altText: Telus logo
+        type: ImageBlock
+      - url: /images/CONTROL VISUAL.png
+        altText: Contentful logo
+        type: ImageBlock
+      - url: /images/LIDERAZGO.png
+        altText: Sanity logo
+        type: ImageBlock
+      - url: /images/FLUJO CONTINUOT2.png
+        altText: Rangle logo
+        type: ImageBlock
+    motion: move-to-right
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: ImageGallerySection
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
+      url: /images/Dibujo1.bmp
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: Servicios Especializados
       color: text-primary
       styles:
         self:
@@ -62,7 +103,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Optimización Integral de Procesos y Cadena de Valor
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
@@ -86,7 +127,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Two
+        title: Gestión de Proyectos de Mejora Continua
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
@@ -110,7 +151,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Three
+        title: Desarrollo de Planes de Negocios y Estudios de Viabilidad
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
@@ -169,11 +210,13 @@ sections:
     items:
       - type: FeaturedItem
         title: MISION
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: ''
+        text: >
+          Empoderar a empresas y profesionales con soluciones enfocadas a la
+          optimización de sus procesos para lograr y alcanzar el máximo
+          rendimiento operativo a través del uso de herramientas modernas de
+          gestión, metodologías ágiles y el enfoque centrado en la mejora
+          continua.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -197,11 +240,18 @@ sections:
             self:
               borderRadius: x-large
       - title: COMPROMISOS
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: ''
+        text: |+
+          *   Ofrecer soluciones efectivas y prácticas.
+
+          *   Garantizar calidad con resultados tangibles.
+
+          *   Diseñar estrategias personalizadas según cada necesidad.
+
+          *   Promover eficiencia sostenible con reducción de desperdicios.
+
+          *   Fomentar colaboración y comunicación abierta.
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -222,11 +272,18 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: VENTAJAS
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: ''
+        text: |+
+          *   Evaluación Integral para detectar mejoras.
+
+          *   Uso de metodologías probadas como Lean Six Sigma.
+
+          *   Enfoque en resultados prácticos accesibles.
+
+          *   Estrategias claras y adaptadas a cada cliente.
+
+          *   Soporte continuo para asegurar implementación exitosa.
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -274,37 +331,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
-    images:
-      - url: /images/GEMBA.png
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/ESTANDARIZARF.png
-        altText: Wellster logo
-        type: ImageBlock
-      - altText: Vise logo
-        type: ImageBlock
-        url: /images/CADENADEVALOR.png
-      - url: /images/KAIZENR2.png
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/CONTROL VISUAL3.png
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/LIDERAZGO.png
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/FLUJO CONTINUOT2.png
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-right
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
