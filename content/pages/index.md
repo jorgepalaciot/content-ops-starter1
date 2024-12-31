@@ -12,10 +12,8 @@ sections:
       Alcanza tu máximo potencial a través de soluciones innovadoras y prácticas
       en gestión de procesos. Nuestro enfoque combina principios de Lean
       Thinking, mejora continua y análisis estratégico para optimizar cada
-      eslabón de la cadena de Valor.
-
-
-      ¿Listo para llevar a tu empresa al siguiente Nivel?
+      eslabón de la cadena de Valor. ¿Listo para llevar a tu empresa al
+      siguiente Nivel?
     actions:
       - label: Get started
         altText: ''
