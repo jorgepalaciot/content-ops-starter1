@@ -87,7 +87,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: Servicios Especializados
       color: text-primary
       styles:
         self:
