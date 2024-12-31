@@ -284,7 +284,7 @@ sections:
         type: ImageBlock
       - altText: Vise logo
         type: ImageBlock
-      - url: /images/KAIZEN2.png
+      - url: /images/KAIZEN3.png
         altText: Telus logo
         type: ImageBlock
       - url: /images/CONTROL VISUAL3.png
