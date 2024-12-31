@@ -284,6 +284,7 @@ sections:
         type: ImageBlock
       - altText: Vise logo
         type: ImageBlock
+        url: /images/CADENADEVALOR.png
       - url: /images/KAIZENR2.png
         altText: Telus logo
         type: ImageBlock
