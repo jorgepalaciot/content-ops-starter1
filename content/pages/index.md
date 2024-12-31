@@ -293,7 +293,7 @@ sections:
       - url: /images/REDUCIDO MAS PEQUEÑO.png
         altText: Sanity logo
         type: ImageBlock
-      - url: /images/FLUJO CONTINUOT.png
+      - url: /images/FLUJO CONTINUOT2.png
         altText: Rangle logo
         type: ImageBlock
     motion: move-to-right
