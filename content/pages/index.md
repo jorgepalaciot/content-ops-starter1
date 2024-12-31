@@ -291,7 +291,7 @@ sections:
       - url: /images/contenful-logo.svg
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /images/REDUCIDO MAS PEQUEÑO.png
         altText: Sanity logo
         type: ImageBlock
       - url: /images/rangle-logo.svg
