@@ -155,7 +155,7 @@ sections:
         padding:
           - pt-4
           - pl-20
-          - pb-2
+          - pb-4
           - pr-20
   - type: FeaturedItemsSection
     title:
