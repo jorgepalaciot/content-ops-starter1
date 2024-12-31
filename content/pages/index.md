@@ -282,8 +282,7 @@ sections:
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/REDUCIDO MAS PEQUEÑO.png
-        altText: Vise logo
+      - altText: Vise logo
         type: ImageBlock
       - url: /images/REDUCIDO MAS PEQUEÑO.png
         altText: Telus logo
