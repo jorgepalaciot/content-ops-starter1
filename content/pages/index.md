@@ -276,7 +276,7 @@ sections:
         textAlign: center
   - subtitle: Award winning enterprises trust us
     images:
-      - url: /images/REDUCIDO MAS PEQUEÑO.png
+      - url: /images/GEMBA.png
         altText: Empathy logo
         type: ImageBlock
       - url: /images/ESTANDARIZARF.png
