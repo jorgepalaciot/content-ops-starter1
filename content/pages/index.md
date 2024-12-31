@@ -143,7 +143,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Three
+        title: Desarrollo de Planes de
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
