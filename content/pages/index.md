@@ -232,7 +232,7 @@ sections:
             self:
               borderRadius: x-large
       - title: COMPROMISOS
-        subtitle: The Job Stuff
+        subtitle: ''
         text: |+
           *   Ofrecer soluciones efectivas y prácticas.
 
