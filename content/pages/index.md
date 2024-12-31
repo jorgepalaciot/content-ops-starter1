@@ -203,10 +203,12 @@ sections:
       - type: FeaturedItem
         title: MISION
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Empoderar a empresas y profesionales con soluciones enfocadas a la
+          optimización de sus procesos para lograr y alcanzar el máximo
+          rendimiento operativo a través del uso de herramientas modernas de
+          gestión, metodologías ágiles y el enfoque centrado en la mejora
+          continua.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
