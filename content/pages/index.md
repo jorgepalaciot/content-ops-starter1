@@ -287,7 +287,7 @@ sections:
       - url: /images/REDUCIDO MAS PEQUEÑO.png
         altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/CONTROL VISUAL.png
         altText: Contentful logo
         type: ImageBlock
       - url: /images/REDUCIDO MAS PEQUEÑO.png
