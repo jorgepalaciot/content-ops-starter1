@@ -202,7 +202,7 @@ sections:
     items:
       - type: FeaturedItem
         title: MISION
-        subtitle: Numbers Done
+        subtitle: ''
         text: >
           Empoderar a empresas y profesionales con soluciones enfocadas a la
           optimización de sus procesos para lograr y alcanzar el máximo
