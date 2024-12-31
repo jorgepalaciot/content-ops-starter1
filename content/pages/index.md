@@ -9,9 +9,13 @@ sections:
       type: TitleBlock
     subtitle: Estrategias Inteligentes para alcanzar excelencia Operativa
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Alcanza tu máximo potencial a través de soluciones innovadoras y prácticas
+      en gestión de procesos. Nuestro enfoque combina principios de Lean
+      Thinking, mejora continua y análisis estratégico para optimizar cada
+      eslabón de la cadena de Valor.
+
+
+      ¿Listo para llevar a tu empresa al siguiente Nivel?
     actions:
       - label: Get started
         altText: ''
