@@ -235,7 +235,6 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
           styles:
             self:
               borderRadius: x-large
@@ -253,7 +252,6 @@ sections:
           *   Fomentar colaboración y comunicación abierta.
 
         image:
-          url: /images/icon2.svg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
@@ -285,7 +283,6 @@ sections:
           *   Soporte continuo para asegurar implementación exitosa.
 
         image:
-          url: /images/icon3.svg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
