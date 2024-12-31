@@ -290,7 +290,7 @@ sections:
       - url: /images/CONTROL VISUAL3.png
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/REDUCIDO MAS PEQUEÑO.png
+      - url: /images/LIDERAZGO.png
         altText: Sanity logo
         type: ImageBlock
       - url: /images/FLUJO CONTINUOT2.png
