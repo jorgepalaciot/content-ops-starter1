@@ -67,7 +67,7 @@ sections:
       - url: /images/KAIZENR2.png
         altText: Telus logo
         type: ImageBlock
-      - url: /images/CONTROL VISUAL3.png
+      - url: /images/CONTROL VISUAL.png
         altText: Contentful logo
         type: ImageBlock
       - url: /images/LIDERAZGO.png
