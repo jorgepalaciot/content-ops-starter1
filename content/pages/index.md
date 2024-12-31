@@ -185,7 +185,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: COMPROMISO
+      - title: COMPROMISOS
         subtitle: The Job Stuff
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
