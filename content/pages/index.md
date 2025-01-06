@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Ventajas
 slug: /
 sections:
   - type: GenericSection
