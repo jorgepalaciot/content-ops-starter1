@@ -182,7 +182,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Compromisos
-        subtitle: Marketing
+        subtitle: ''
         text: |+
           *   Ofrecer soluciones efectivas y prácticas.
 
