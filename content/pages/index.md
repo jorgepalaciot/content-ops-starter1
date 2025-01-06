@@ -780,7 +780,7 @@ sections:
       text: CONTACTO
       color: text-dark
       type: TitleBlock
-    subtitle: Cuentame como pudo ayudarte
+    subtitle: Comentame como pudo ayudarte
     text: >+
 
       ¿Tienes preguntas o necesitas ayuda con tus procesos? Estoy aquí para
