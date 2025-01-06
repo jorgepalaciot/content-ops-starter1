@@ -99,7 +99,7 @@
                 "showIcon": true,
                 "icon": "send",
                 "iconPosition": "left",
-                "style": "primary",
+                "style": "secondary",
                 "elementId": ""
             }
         ],
