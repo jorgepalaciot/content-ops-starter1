@@ -805,7 +805,7 @@ sections:
           type: EmailFormControl
         - name: message
           label: Message
-          hideLabel: false
+          hideLabel: true
           placeholder: ''
           width: full
           type: TextareaFormControl
