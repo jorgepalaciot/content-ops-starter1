@@ -92,6 +92,13 @@
             "url": "/",
             "icon": "github",
             "elementId": ""
+        },
+        {
+            "type": "Social",
+            "altText": "LinkedIn link",
+            "url": "https://www.linkedin.com/in/jorgepalaciot/",
+            "icon": "linkedin",
+            "elementId": ""
         }
     ],
     "legalLinks": [
