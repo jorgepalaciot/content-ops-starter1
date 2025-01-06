@@ -831,7 +831,7 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: Hablemos
+      label: Escribeme
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
