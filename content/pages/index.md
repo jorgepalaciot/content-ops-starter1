@@ -238,7 +238,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Apply now
+        label: ''
         url: /
         icon: arrowRight
         iconPosition: right
