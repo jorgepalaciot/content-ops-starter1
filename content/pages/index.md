@@ -92,7 +92,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: Optimización Integral de Procesos y Cadena de Valor
