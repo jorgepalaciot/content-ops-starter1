@@ -318,7 +318,7 @@ sections:
           continua.
         actions: []
         elementId: null
-        colors: bg-neutral-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
