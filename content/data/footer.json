@@ -68,6 +68,17 @@
                 "style": "secondary",
                 "type": "Link",
                 "showIcon": true
+            },
+            {
+                "type": "Link",
+                "label": "Send email",
+                "altText": "Play",
+                "url": "/",
+                "showIcon": true,
+                "icon": "mail",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
