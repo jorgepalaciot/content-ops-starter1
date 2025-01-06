@@ -2,6 +2,37 @@
 title: Home
 slug: /
 sections:
+  - subtitle: ''
+    images:
+      - url: /images/GEMBA.png
+        altText: Empathy logo
+        type: ImageBlock
+      - url: /images/ESTANDARIZARF.png
+        altText: Wellster logo
+        type: ImageBlock
+      - altText: Vise logo
+        type: ImageBlock
+        url: /images/CADENADEVALOR.png
+      - url: /images/KAIZENR2.png
+        altText: Telus logo
+        type: ImageBlock
+      - url: /images/CONTROL VISUAL.png
+        altText: Contentful logo
+        type: ImageBlock
+      - url: /images/LIDERAZGO.png
+        altText: Sanity logo
+        type: ImageBlock
+      - url: /images/FLUJO CONTINUOT2.png
+        altText: Rangle logo
+        type: ImageBlock
+    motion: move-to-right
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: ImageGallerySection
   - type: GenericSection
     title:
       text: 'Transformando Procesos, Maximizando Valor'
@@ -53,37 +84,6 @@ sections:
           - pl-16
           - pb-0
           - pr-16
-  - subtitle: ''
-    images:
-      - url: /images/GEMBA.png
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/ESTANDARIZARF.png
-        altText: Wellster logo
-        type: ImageBlock
-      - altText: Vise logo
-        type: ImageBlock
-        url: /images/CADENADEVALOR.png
-      - url: /images/KAIZENR2.png
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/CONTROL VISUAL.png
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/LIDERAZGO.png
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/FLUJO CONTINUOT2.png
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-right
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
