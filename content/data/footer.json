@@ -92,15 +92,6 @@
                 "iconPosition": "left",
                 "style": "secondary",
                 "elementId": ""
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "icon": "arrowRight",
-                "iconPosition": "left",
-                "style": "secondary",
-                "type": "Link",
-                "showIcon": true
             }
         ],
         "type": "FooterLinksGroup"
