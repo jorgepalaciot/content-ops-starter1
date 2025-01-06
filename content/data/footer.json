@@ -94,7 +94,7 @@
             {
                 "type": "Link",
                 "label": "912 000 480",
-                "altText": "Send",
+                "altText": "",
                 "url": "/",
                 "showIcon": true,
                 "icon": "send",
