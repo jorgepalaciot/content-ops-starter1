@@ -4,21 +4,12 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "Conviertete en una organización de alto desempeño aplicando la cultura de la mejora continua con la filosofía Lean Thinking\n",
     "primaryLinks": {
-        "title": "Product",
+        "title": "SERVICIOS",
         "links": [
             {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Pricing",
+                "label": "Gestión de Proyectos de Mejora Continua",
                 "url": "/pricing",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -26,63 +17,101 @@
                 "type": "Link"
             },
             {
-                "label": "Documentation",
+                "label": "Optimización Integral de Procesos",
+                "altText": "Features page",
                 "url": "/",
-                "icon": "arrowRight",
+                "icon": "",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
-    "secondaryLinks": {
-        "title": "Company",
-        "links": [
+            },
             {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
+                "label": "Desarrollo de Planes de Negocios",
+                "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Blog",
-                "url": "/blog",
+                "type": "Link",
+                "label": "Capacitaciones",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "elementId": ""
+            }
+        ],
+        "type": "FooterLinksGroup"
+    },
+    "secondaryLinks": {
+        "title": "Contactame",
+        "links": [
+            {
+                "label": "Lima, Perú",
+                "altText": "",
+                "url": "",
+                "icon": "play",
+                "iconPosition": "left",
+                "style": "secondary",
+                "type": "Link",
+                "showIcon": true
+            },
+            {
+                "type": "Link",
+                "label": "jorgepalaciote@gmail.com",
+                "altText": "",
+                "url": "/",
+                "showIcon": true,
+                "icon": "mail",
+                "iconPosition": "left",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "LinkedIn",
+                "altText": "LinkedIn",
+                "url": "https://www.linkedin.com/in/jorgepalaciot/",
+                "showIcon": true,
+                "icon": "linkedin",
+                "iconPosition": "left",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "912 000 480",
+                "altText": "",
+                "url": "/",
+                "showIcon": true,
+                "icon": "send",
+                "iconPosition": "left",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "label": "Blog",
+                "url": "/blog",
+                "icon": "arrowRight",
+                "iconPosition": "left",
+                "style": "secondary",
+                "type": "Link",
+                "showIcon": true
             }
         ],
         "type": "FooterLinksGroup"
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
-            "type": "Social"
-        },
-        {
-            "altText": "Email link",
+            "type": "Social",
+            "altText": "Email icon",
             "url": "/",
             "icon": "mail",
-            "type": "Social"
+            "elementId": ""
         }
     ],
     "legalLinks": [

@@ -152,7 +152,7 @@ sections:
     title:
       type: TitleBlock
       text: Beneficios
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
@@ -197,7 +197,7 @@ sections:
 
 
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -226,7 +226,7 @@ sections:
 
 
         actions: []
-        colors: bg-dark-fg-light
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -236,15 +236,9 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-    actions:
-      - type: Button
-        label: Apply now
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    variant: toggle-list
-    colors: bg-light-fg-dark
+    actions: []
+    variant: three-col-grid
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
@@ -297,136 +291,6 @@ sections:
           - pl-20
           - pb-4
           - pr-20
-  - type: FeaturedItemsSection
-    title:
-      text: BENEFICIOS
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: ''
-    items:
-      - type: FeaturedItem
-        title: MISION
-        subtitle: ''
-        text: >
-          Empoderar a empresas y profesionales con soluciones enfocadas a la
-          optimización de sus procesos para lograr y alcanzar el máximo
-          rendimiento operativo a través del uso de herramientas modernas de
-          gestión, metodologías ágiles y el enfoque centrado en la mejora
-          continua.
-        actions: []
-        elementId: null
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
-        image:
-          type: ImageBlock
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          styles:
-            self:
-              borderRadius: x-large
-      - title: COMPROMISOS
-        subtitle: ''
-        text: |+
-          *   Ofrecer soluciones efectivas y prácticas.
-
-          *   Garantizar calidad con resultados tangibles.
-
-          *   Diseñar estrategias personalizadas según cada necesidad.
-
-          *   Promover eficiencia sostenible con reducción de desperdicios.
-
-          *   Fomentar colaboración y comunicación abierta.
-
-        image:
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
-      - title: VENTAJAS
-        subtitle: ''
-        text: |+
-          *   Evaluación Integral para detectar mejoras.
-
-          *   Uso de metodologías probadas como Lean Six Sigma.
-
-          *   Enfoque en resultados prácticos accesibles.
-
-          *   Estrategias claras y adaptadas a cada cliente.
-
-          *   Soporte continuo para asegurar implementación exitosa.
-
-        image:
-          altText: Featured icon three
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-        type: FeaturedItem
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
-    badge:
-      label: ''
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pb-5
-          - pt-5
-          - pl-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
@@ -913,7 +777,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Generic Section With A Form
+      text: CONTACTO
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
@@ -966,7 +830,7 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: Contact Us
+      label: Contacto
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
@@ -976,5 +840,9 @@ seo:
   metaDescription: This demo site is built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
+  metaTags:
+    - type: MetaTag
+    - type: MetaTag
 type: PageLayout
+isDraft: false
 ---
