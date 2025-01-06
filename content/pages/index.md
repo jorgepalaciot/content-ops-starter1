@@ -842,6 +842,7 @@ seo:
   type: Seo
   metaTags:
     - type: MetaTag
+    - type: MetaTag
 type: PageLayout
 isDraft: false
 ---
