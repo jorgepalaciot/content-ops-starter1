@@ -55,7 +55,7 @@
                 "altText": "",
                 "url": "",
                 "icon": "play",
-                "iconPosition": "right",
+                "iconPosition": "left",
                 "style": "secondary",
                 "type": "Link",
                 "showIcon": true
