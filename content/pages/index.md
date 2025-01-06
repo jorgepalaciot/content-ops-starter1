@@ -806,7 +806,7 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: ''
+          placeholder: Escribe aquí
           width: full
           type: TextareaFormControl
       elementId: contact-form
