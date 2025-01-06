@@ -52,8 +52,8 @@
         "links": [
             {
                 "label": "Lima, Perú",
-                "altText": "careers page",
-                "url": "/careers",
+                "altText": "",
+                "url": "",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
