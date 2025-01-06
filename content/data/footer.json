@@ -9,18 +9,18 @@
         "title": "SERVICIOS",
         "links": [
             {
-                "label": "Optimización Integral de Procesos",
-                "altText": "Features page",
-                "url": "/",
-                "icon": "",
+                "label": "Gestión de Proyectos de Mejora Continua",
+                "url": "/pricing",
+                "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Gestión de Proyectos de Mejora Continua",
-                "url": "/pricing",
-                "icon": "arrowRight",
+                "label": "Optimización Integral de Procesos",
+                "altText": "Features page",
+                "url": "/",
+                "icon": "",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
