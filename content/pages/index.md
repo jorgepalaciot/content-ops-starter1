@@ -152,7 +152,7 @@ sections:
     title:
       type: TitleBlock
       text: Beneficios
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: center
