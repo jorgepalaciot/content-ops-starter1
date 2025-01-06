@@ -61,15 +61,6 @@
                 "showIcon": true
             },
             {
-                "label": "Blog",
-                "url": "/blog",
-                "icon": "arrowRight",
-                "iconPosition": "left",
-                "style": "secondary",
-                "type": "Link",
-                "showIcon": true
-            },
-            {
                 "type": "Link",
                 "label": "jorgepalaciote@gmail.com",
                 "altText": "",
@@ -101,6 +92,15 @@
                 "iconPosition": "left",
                 "style": "secondary",
                 "elementId": ""
+            },
+            {
+                "label": "Blog",
+                "url": "/blog",
+                "icon": "arrowRight",
+                "iconPosition": "left",
+                "style": "secondary",
+                "type": "Link",
+                "showIcon": true
             }
         ],
         "type": "FooterLinksGroup"
