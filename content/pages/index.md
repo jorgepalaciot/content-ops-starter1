@@ -211,7 +211,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Ventajas
-        subtitle: Engineering
+        subtitle: ''
         text: |+
           *   Evaluación Integral para detectar mejoras.
 
