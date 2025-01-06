@@ -160,7 +160,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Misión
-        subtitle: Sales
+        subtitle: ''
         text: >
           Empoderar a empresas y profesionales con soluciones enfocadas a la
           optimización de sus procesos para lograr y alcanzar el máximo
