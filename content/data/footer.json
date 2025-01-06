@@ -12,7 +12,7 @@
                 "label": "Optimización Integral de Procesos y Cadena de Valor",
                 "altText": "Features page",
                 "url": "/",
-                "icon": "arrowRight",
+                "icon": "",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
