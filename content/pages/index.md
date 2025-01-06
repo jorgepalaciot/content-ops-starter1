@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Ventajas
 slug: /
 sections:
   - type: GenericSection
@@ -39,7 +39,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
@@ -49,49 +49,10 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-16
+          - pt-5
           - pl-16
-          - pb-0
+          - pb-5
           - pr-16
-  - subtitle: ''
-    images:
-      - url: /images/GEMBA.png
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/ESTANDARIZARF.png
-        altText: Wellster logo
-        type: ImageBlock
-      - altText: Vise logo
-        type: ImageBlock
-        url: /images/CADENADEVALOR.png
-      - url: /images/KAIZENR2.png
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/CONTROL VISUAL.png
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/LIDERAZGO.png
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/FLUJO CONTINUOT2.png
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-right
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/Dibujo1.bmp
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -100,7 +61,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: Optimización Integral de Procesos y Cadena de Valor
@@ -180,13 +141,151 @@ sections:
     styles:
       self:
         padding:
-          - pt-16
+          - pt-5
           - pl-8
-          - pb-16
+          - pb-5
           - pr-8
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Beneficios
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: Misión
+        subtitle: ''
+        text: >
+          Empoderar a empresas y profesionales con soluciones enfocadas a la
+          optimización de sus procesos para lograr y alcanzar el máximo
+          rendimiento operativo a través del uso de herramientas modernas de
+          gestión, metodologías ágiles y el enfoque centrado en la mejora
+          continua.
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            textAlign: left
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: Compromisos
+        subtitle: ''
+        text: |+
+          *   Ofrecer soluciones efectivas y prácticas.
+
+          *   Garantizar calidad con resultados tangibles.
+
+          *   Diseñar estrategias personalizadas según cada necesidad.
+
+          *   Promover eficiencia sostenible con reducción de desperdicios.
+
+          *   Fomentar colaboración y comunicación abierta.
+
+
+
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            textAlign: left
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: Ventajas
+        subtitle: ''
+        text: |+
+          *   Evaluación Integral para detectar mejoras.
+
+          *   Uso de metodologías probadas como Lean Six Sigma.
+
+          *   Enfoque en resultados prácticos accesibles.
+
+          *   Estrategias claras y adaptadas a cada cliente.
+
+          *   Soporte continuo para asegurar implementación exitosa.
+
+
+
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+    actions:
+      - type: Button
+        label: Apply now
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    variant: toggle-list
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-5
+          - pt-16
+          - pl-3
+          - pr-3
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - subtitle: ''
+    images:
+      - url: /images/GEMBA.png
+        altText: Empathy logo
+        type: ImageBlock
+      - url: /images/ESTANDARIZARF.png
+        altText: Wellster logo
+        type: ImageBlock
+      - altText: Vise logo
+        type: ImageBlock
+        url: /images/CADENADEVALOR.png
+      - url: /images/KAIZENR2.png
+        altText: Telus logo
+        type: ImageBlock
+      - url: /images/CONTROL VISUAL.png
+        altText: Contentful logo
+        type: ImageBlock
+      - url: /images/LIDERAZGO.png
+        altText: Sanity logo
+        type: ImageBlock
+      - url: /images/FLUJO CONTINUOT2.png
+        altText: Rangle logo
+        type: ImageBlock
+    motion: move-to-right
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: ImageGallerySection
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -219,7 +318,7 @@ sections:
           continua.
         actions: []
         elementId: null
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -256,7 +355,7 @@ sections:
           elementId: ''
           type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -287,7 +386,7 @@ sections:
           elementId: ''
           type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
