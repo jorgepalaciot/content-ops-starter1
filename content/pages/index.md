@@ -183,10 +183,19 @@ sections:
       - type: FeaturedItem
         title: Compromisos
         subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          *   Ofrecer soluciones efectivas y prácticas.
+
+          *   Garantizar calidad con resultados tangibles.
+
+          *   Diseñar estrategias personalizadas según cada necesidad.
+
+          *   Promover eficiencia sostenible con reducción de desperdicios.
+
+          *   Fomentar colaboración y comunicación abierta.
+
+
+
         actions: []
         colors: bg-neutral-fg-dark
         styles:
