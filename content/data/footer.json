@@ -72,7 +72,7 @@
             {
                 "type": "Link",
                 "label": "jorgepalaciote@gmail.com",
-                "altText": "Play",
+                "altText": "",
                 "url": "/",
                 "showIcon": true,
                 "icon": "mail",
