@@ -98,7 +98,7 @@
                 "url": "/",
                 "showIcon": true,
                 "icon": "send",
-                "iconPosition": "right",
+                "iconPosition": "left",
                 "style": "secondary",
                 "elementId": ""
             }
