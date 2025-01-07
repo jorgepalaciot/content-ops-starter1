@@ -73,17 +73,6 @@
             },
             {
                 "type": "Link",
-                "label": "LinkedIn",
-                "altText": "LinkedIn",
-                "url": "https://www.linkedin.com/in/jorgepalaciot/",
-                "showIcon": true,
-                "icon": "linkedin",
-                "iconPosition": "left",
-                "style": "secondary",
-                "elementId": ""
-            },
-            {
-                "type": "Link",
                 "label": "912 000 480",
                 "altText": "",
                 "url": "/",
@@ -92,15 +81,6 @@
                 "iconPosition": "left",
                 "style": "secondary",
                 "elementId": ""
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "icon": "arrowRight",
-                "iconPosition": "left",
-                "style": "secondary",
-                "type": "Link",
-                "showIcon": true
             }
         ],
         "type": "FooterLinksGroup"
@@ -110,7 +90,14 @@
             "type": "Social",
             "altText": "Email icon",
             "url": "/",
-            "icon": "mail",
+            "icon": "instagram",
+            "elementId": ""
+        },
+        {
+            "type": "Social",
+            "altText": "LinkedIn link",
+            "url": "https://www.linkedin.com/in/jorgepalaciot/",
+            "icon": "linkedin",
             "elementId": ""
         }
     ],
@@ -130,9 +117,21 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
+        },
+        {
+            "type": "Link",
+            "label": "Send email",
+            "altText": "Play",
+            "url": "/",
+            "showIcon": true,
+            "icon": "mail",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
     "colors": "bg-dark-fg-light",
-    "type": "Footer"
+    "type": "Footer",
+    "title": ""
 }
