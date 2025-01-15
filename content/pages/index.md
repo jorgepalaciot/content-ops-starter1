@@ -148,7 +148,7 @@ sections:
       - type: FeaturedItem
         title: Desarrollo de Planes de Negocios y Estudios de Viabilidad
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |+
           *   Estudios de viabilidad técnica y económica
 
