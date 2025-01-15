@@ -770,7 +770,7 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Escribe aquí
+          placeholder: Séctor de la Empresa
           width: full
           type: TextareaFormControl
       elementId: contact-form
