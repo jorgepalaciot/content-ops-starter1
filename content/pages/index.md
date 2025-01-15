@@ -100,7 +100,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Gestión de Proyectos de Mejora Continua
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first awesome Netlify site.
