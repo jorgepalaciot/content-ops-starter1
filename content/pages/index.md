@@ -772,7 +772,7 @@ sections:
           hideLabel: true
           placeholder: >-
             Escribe aquí, Séctor de la Empresa, Principales desafios, tamaño de
-            la organización, objetivos específicos
+            la organización, objetivos específicos...
           width: full
           type: TextareaFormControl
       elementId: contact-form
