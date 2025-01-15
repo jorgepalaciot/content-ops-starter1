@@ -99,7 +99,7 @@ sections:
     title:
       type: TitleBlock
       text: Beneficios
-      color: text-light
+      color: text-primary
       styles:
         self:
           textAlign: center
