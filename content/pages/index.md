@@ -115,7 +115,7 @@ sections:
           gestión, metodologías ágiles y el enfoque centrado en la mejora
           continua.
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
