@@ -79,8 +79,19 @@ sections:
         title: Optimización Integral de Procesos y Cadena de Valor
         tagline: ''
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        text: |+
+          *   Mapeo y análisis de procesos (VSM)
+
+          *   Implementación de metodologías Lean Six Sigma
+
+          *   Reducción de desperdicios y tiempo de ciclo
+
+          *   Optimización de layouts y flujos de trabajo
+
+          *   Estandarización de procesos
+
+
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
