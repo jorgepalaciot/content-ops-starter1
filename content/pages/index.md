@@ -68,7 +68,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: ''
+      text: Servicios Especializados
       color: text-dark
       styles:
         self:
