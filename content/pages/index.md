@@ -211,7 +211,7 @@ sections:
     title:
       type: TitleBlock
       text: Servicios Especializados
-      color: text-primary
+      color: text-dark
       styles:
         self:
           textAlign: center
