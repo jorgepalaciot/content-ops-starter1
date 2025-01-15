@@ -149,8 +149,18 @@ sections:
         title: Desarrollo de Planes de Negocios y Estudios de Viabilidad
         tagline: ''
         subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        text: |+
+          *   Estudios de viabilidad técnica y económica
+
+          *   Análisis de capacidad y dimensionamiento
+
+          *   Planificación estratégica operativa
+
+          *   Optimización de costos operativos
+
+          *   Desarrollo de modelos de negocio sostenibles
+
+
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
