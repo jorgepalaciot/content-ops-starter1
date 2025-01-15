@@ -78,7 +78,7 @@ sections:
       - type: FeaturedItem
         title: Optimización Integral de Procesos y Cadena de Valor
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |+
           *   Mapeo y análisis de procesos (VSM)
 
