@@ -770,7 +770,9 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Séctor de la Empresa
+          placeholder: >-
+            Escribe aquí, Séctor de la Empresa, Principales desafios, tamaño de
+            la organización, objetivos específicos
           width: full
           type: TextareaFormControl
       elementId: contact-form
