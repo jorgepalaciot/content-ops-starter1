@@ -173,7 +173,7 @@ sections:
 
 
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
