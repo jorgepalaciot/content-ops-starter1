@@ -114,8 +114,19 @@ sections:
         title: Gestión de Proyectos de Mejora Continua
         tagline: ''
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        text: |+
+          *   Implementación de sistemas Kanban
+
+          *   Desarrollo de KPIs y tableros de control
+
+          *   Metodologías ágiles para gestión de proyectos
+
+          *   Programas de mejora continua (Kaizen)
+
+          *   Gestión del cambio organizacional
+
+
+
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
