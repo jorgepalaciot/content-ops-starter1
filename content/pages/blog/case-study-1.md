@@ -1,5 +1,5 @@
 ---
-title: Caso de Estudio
+title: Caso Gestión Documentaria y programa de mantenimientos
 slug: case-study-1
 date: '2019-12-05'
 excerpt: >-
