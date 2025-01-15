@@ -204,12 +204,13 @@ sections:
       - type: FeaturedItem
         title: Misión
         subtitle: ''
-        text: >
-          Empoderar a empresas y profesionales con soluciones enfocadas a la
-          optimización de sus procesos para lograr y alcanzar el máximo
-          rendimiento operativo a través del uso de herramientas modernas de
-          gestión, metodologías ágiles y el enfoque centrado en la mejora
-          continua.
+        text: >+
+          Transformar organizaciones mediante la aplicación de principios de
+          ingeniería industrial y metodologías ágiles, facilitando la
+          optimización de procesos, reducción de costos y mejora de la
+          productividad. Nos comprometemos a entregar soluciones medibles y
+          sostenibles que generen valor real para nuestros clientes
+
         actions: []
         colors: bg-light-fg-dark
         styles:
