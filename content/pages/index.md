@@ -113,7 +113,7 @@ sections:
       - type: FeaturedItem
         title: Gestión de Proyectos de Mejora Continua
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |+
           *   Implementación de sistemas Kanban
 
