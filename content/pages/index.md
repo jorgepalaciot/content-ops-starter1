@@ -8,12 +8,13 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Estrategias Inteligentes para alcanzar excelencia Operativa
-    text: >
-      Alcanza tu máximo potencial a través de soluciones innovadoras y prácticas
-      en gestión de procesos. Nuestro enfoque combina principios de Lean
-      Thinking, mejora continua y análisis estratégico para optimizar cada
-      eslabón de la cadena de Valor. ¿Listo para llevar a tu empresa al
-      siguiente Nivel?
+    text: >+
+      Potencia la eficiencia de tu empresa a través de soluciones basadas en
+      ingeniería industrial y metodologías Lean Six Sigma. Optimizamos tus
+      procesos operativos mediante un enfoque sistemático que combina análisis
+      de datos, mejora continua y gestión estratégica. ¿Listo para transformar
+      tu operación?
+
     actions:
       - label: Get started
         altText: ''
