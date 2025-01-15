@@ -1,5 +1,5 @@
 ---
-title: Lean Thinking
+title: Caso de Estudio
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
