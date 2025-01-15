@@ -1,5 +1,5 @@
 ---
-title: Case study 2
+title: Caso de Propuestas de Mejora en Caja Municipal
 slug: case-study-2
 date: '2022-02-16'
 excerpt: >-
