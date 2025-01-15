@@ -8,12 +8,13 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Estrategias Inteligentes para alcanzar excelencia Operativa
-    text: >
-      Alcanza tu máximo potencial a través de soluciones innovadoras y prácticas
-      en gestión de procesos. Nuestro enfoque combina principios de Lean
-      Thinking, mejora continua y análisis estratégico para optimizar cada
-      eslabón de la cadena de Valor. ¿Listo para llevar a tu empresa al
-      siguiente Nivel?
+    text: >+
+      Potencia la eficiencia de tu empresa a través de soluciones basadas en
+      ingeniería industrial y metodologías Lean Six Sigma. Optimizamos tus
+      procesos operativos mediante un enfoque sistemático que combina análisis
+      de datos, mejora continua y gestión estratégica. ¿Listo para transformar
+      tu operación?
+
     actions:
       - label: Get started
         altText: ''
@@ -53,6 +54,144 @@ sections:
           - pl-16
           - pb-5
           - pr-16
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Servicios Especializados
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: Optimización Integral de Procesos y Cadena de Valor
+        tagline: ''
+        subtitle: ''
+        text: |+
+          *   Mapeo y análisis de procesos (VSM)
+
+          *   Implementación de metodologías Lean Six Sigma
+
+          *   Reducción de desperdicios y tiempo de ciclo
+
+          *   Optimización de layouts y flujos de trabajo
+
+          *   Estandarización de procesos
+
+
+
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+      - type: FeaturedItem
+        title: Gestión de Proyectos de Mejora Continua
+        tagline: ''
+        subtitle: ''
+        text: |+
+          *   Implementación de sistemas Kanban
+
+          *   Desarrollo de KPIs y tableros de control
+
+          *   Metodologías ágiles para gestión de proyectos
+
+          *   Programas de mejora continua (Kaizen)
+
+          *   Gestión del cambio organizacional
+
+
+
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature2.svg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+      - type: FeaturedItem
+        title: Desarrollo de Planes de Negocios y Estudios de Viabilidad
+        tagline: ''
+        subtitle: ''
+        text: |+
+          *   Estudios de viabilidad técnica y económica
+
+          *   Análisis de capacidad y dimensionamiento
+
+          *   Planificación estratégica operativa
+
+          *   Optimización de costos operativos
+
+          *   Desarrollo de modelos de negocio sostenibles
+
+
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature3.svg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+    actions: []
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-5
+          - pl-8
+          - pb-5
+          - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - subtitle: ''
     images:
       - url: /images/GEMBA.png
@@ -84,22 +223,11 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-3
-          - pl-3
-          - pb-3
-          - pr-3
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Beneficios
-      color: text-light
+      text: BENEFICIOS
+      color: text-dark
       styles:
         self:
           textAlign: center
@@ -108,14 +236,15 @@ sections:
       - type: FeaturedItem
         title: Misión
         subtitle: ''
-        text: >
-          Empoderar a empresas y profesionales con soluciones enfocadas a la
-          optimización de sus procesos para lograr y alcanzar el máximo
-          rendimiento operativo a través del uso de herramientas modernas de
-          gestión, metodologías ágiles y el enfoque centrado en la mejora
-          continua.
+        text: >+
+          Transformar organizaciones mediante la aplicación de principios de
+          ingeniería industrial y metodologías ágiles, facilitando la
+          optimización de procesos, reducción de costos y mejora de la
+          productividad. Nos comprometemos a entregar soluciones medibles y
+          sostenibles que generen valor real para nuestros clientes
+
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -173,7 +302,7 @@ sections:
 
 
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -185,11 +314,11 @@ sections:
             flexDirection: row
     actions: []
     variant: three-col-grid
-    colors: bg-dark-fg-light
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
-          - pb-5
+          - pb-8
           - pt-5
           - pl-3
           - pr-3
@@ -207,101 +336,6 @@ sections:
           - pl-3
           - pb-3
           - pr-3
-  - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: Servicios Especializados
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-    subtitle: ''
-    items:
-      - type: FeaturedItem
-        title: Optimización Integral de Procesos y Cadena de Valor
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify site.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-      - type: FeaturedItem
-        title: Gestión de Proyectos de Mejora Continua
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature2.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-      - type: FeaturedItem
-        title: Desarrollo de Planes de Negocios y Estudios de Viabilidad
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature3.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-    actions: []
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-5
-          - pl-8
-          - pb-5
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -736,7 +770,9 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Escribe aquí
+          placeholder: >-
+            Escribe aquí, Séctor de la Empresa, Principales desafios, tamaño de
+            la organización, objetivos específicos...
           width: full
           type: TextareaFormControl
       elementId: contact-form
@@ -764,7 +800,7 @@ sections:
       label: ''
       color: text-primary
       type: Badge
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     type: GenericSection
 seo:
   metaTitle: Home - Demo site
@@ -775,5 +811,5 @@ seo:
     - type: MetaTag
     - type: MetaTag
 type: PageLayout
-isDraft: false
+isDraft: true
 ---
