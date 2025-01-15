@@ -67,7 +67,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Beneficios
+      text: ''
       color: text-dark
       styles:
         self:
